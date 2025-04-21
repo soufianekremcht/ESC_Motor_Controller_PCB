@@ -1,0 +1,895 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "73b59947-3dcc-4e38-bfed-ceda73ea509d")
+	(paper "A3")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 270.51 170.18) (xy 270.51 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "095c1d9e-651c-4218-9f9a-e8bc23ee9942")
+	)
+	(wire
+		(pts
+			(xy 266.7 180.34) (xy 266.7 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a1380bf-9321-45b5-afd0-d3690d15c8af")
+	)
+	(wire
+		(pts
+			(xy 270.51 146.05) (xy 292.1 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a344226-b1ee-4777-847d-54f9b1f8381c")
+	)
+	(wire
+		(pts
+			(xy 276.86 129.54) (xy 292.1 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11f01534-dcfd-489f-b7ab-3c302bff4920")
+	)
+	(wire
+		(pts
+			(xy 275.59 67.31) (xy 292.1 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1756c1da-d6bd-4f87-a4d6-bc4893ce0113")
+	)
+	(wire
+		(pts
+			(xy 252.73 88.9) (xy 273.05 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20519ff3-0346-416a-b422-3a987935be7b")
+	)
+	(wire
+		(pts
+			(xy 252.73 111.76) (xy 276.86 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "292871e4-308e-45ce-9ddf-938b09ea48f1")
+	)
+	(wire
+		(pts
+			(xy 273.05 135.89) (xy 292.1 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32ffc039-16da-4ecd-91f0-9ea707db2417")
+	)
+	(wire
+		(pts
+			(xy 252.73 186.69) (xy 261.62 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3739500f-6795-4697-aa2b-ab472e3aab49")
+	)
+	(wire
+		(pts
+			(xy 271.78 93.98) (xy 271.78 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ba2d1d3-e51a-4fad-bf58-722d37a648a0")
+	)
+	(wire
+		(pts
+			(xy 252.73 81.28) (xy 280.67 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "434347f5-2404-48c5-a33c-c155f2dd0899")
+	)
+	(wire
+		(pts
+			(xy 252.73 163.83) (xy 275.59 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5276c199-1329-4761-a6a4-741f095ee088")
+	)
+	(wire
+		(pts
+			(xy 280.67 81.28) (xy 280.67 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56b1b45d-e6c8-4eba-a999-50fbc6cab920")
+	)
+	(wire
+		(pts
+			(xy 252.73 93.98) (xy 271.78 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b11b29b-b236-4cf8-a65d-245ebc8d3f16")
+	)
+	(wire
+		(pts
+			(xy 125.73 73.66) (xy 140.97 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61b3200e-b16b-4f4c-9b70-e8f68be230d4")
+	)
+	(wire
+		(pts
+			(xy 275.59 185.42) (xy 292.1 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6487f9f8-d913-4f44-8875-6d69ea994769")
+	)
+	(wire
+		(pts
+			(xy 125.73 88.9) (xy 125.73 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69efcdad-2594-4c66-a0e1-26e1bbbf3f5d")
+	)
+	(wire
+		(pts
+			(xy 267.97 154.94) (xy 287.02 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b95799b-7ebb-4444-ba27-44900473df40")
+	)
+	(wire
+		(pts
+			(xy 287.02 154.94) (xy 287.02 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e9aecaa-8b5d-4e1a-a0a6-bbf199368966")
+	)
+	(wire
+		(pts
+			(xy 252.73 170.18) (xy 270.51 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7261dc17-9d7d-4226-b59b-2d493320f6fc")
+	)
+	(wire
+		(pts
+			(xy 275.59 163.83) (xy 275.59 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73c7fdbe-6118-48bf-91ea-84b015b64a2a")
+	)
+	(wire
+		(pts
+			(xy 261.62 186.69) (xy 261.62 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74e1c1fc-40bd-4086-9238-2da63ab8274c")
+	)
+	(wire
+		(pts
+			(xy 275.59 76.2) (xy 275.59 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "750b429e-7d40-4cc5-8b2e-957dad4e09c5")
+	)
+	(wire
+		(pts
+			(xy 252.73 127) (xy 270.51 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79be3934-61c2-4dd6-9bea-02192de05020")
+	)
+	(wire
+		(pts
+			(xy 252.73 76.2) (xy 275.59 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c15e79c-5969-4632-ac1e-99d4659eaae1")
+	)
+	(wire
+		(pts
+			(xy 287.02 156.21) (xy 292.1 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d5137a3-d5f0-4737-a9bc-8d905d4e50d6")
+	)
+	(wire
+		(pts
+			(xy 252.73 132.08) (xy 267.97 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cac66ad-f4ab-4ab4-843b-32b95d239003")
+	)
+	(wire
+		(pts
+			(xy 252.73 116.84) (xy 273.05 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97df5ff4-1640-4db1-bb2d-14653515a11b")
+	)
+	(wire
+		(pts
+			(xy 261.62 215.9) (xy 292.1 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ba7bfe3-235e-463c-aece-beda16e8aa53")
+	)
+	(wire
+		(pts
+			(xy 271.78 99.06) (xy 292.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad3e20af-906e-4a1d-b79d-68c785022462")
+	)
+	(wire
+		(pts
+			(xy 270.51 194.31) (xy 292.1 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b032c050-162b-42fb-92ea-fc7e9547c545")
+	)
+	(wire
+		(pts
+			(xy 273.05 92.71) (xy 292.1 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4f0e412-7c5d-4ea1-9377-74c90c71bb44")
+	)
+	(wire
+		(pts
+			(xy 76.2 88.9) (xy 125.73 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b522dafc-340e-4423-a732-126d7995d663")
+	)
+	(wire
+		(pts
+			(xy 276.86 111.76) (xy 276.86 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b99e5bff-c9df-434d-b0d3-cf578b5a912e")
+	)
+	(wire
+		(pts
+			(xy 267.97 132.08) (xy 267.97 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb77c555-cecf-4d7d-98ef-c1160ebca85a")
+	)
+	(wire
+		(pts
+			(xy 280.67 72.39) (xy 292.1 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6e384f4-c915-4d0f-9efe-89099bd692ed")
+	)
+	(wire
+		(pts
+			(xy 273.05 88.9) (xy 273.05 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9bbb640-2d01-498d-a6de-4cae73be656b")
+	)
+	(wire
+		(pts
+			(xy 266.7 208.28) (xy 292.1 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd40a942-9753-48c6-bd00-7dae01856f60")
+	)
+	(wire
+		(pts
+			(xy 252.73 180.34) (xy 266.7 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e42a257f-caab-4b3a-9d35-d9d6d3035ac9")
+	)
+	(wire
+		(pts
+			(xy 273.05 116.84) (xy 273.05 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9d721d1-d15c-4e9a-a5f6-76e264a464ec")
+	)
+	(wire
+		(pts
+			(xy 270.51 127) (xy 270.51 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd2777b9-83f2-4d50-bc78-ae5739390507")
+	)
+	(text "3-Phase BLDC motor driver spec:\n- Battery : 3S, 4S\n- VCC : 10.8V to 16.8V\n- I(max) = 15V\n- Voltage and current measurement per phase\n- USB HS : stream motor data to a host PC"
+		(exclude_from_sim no)
+		(at 50.038 225.806 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left)
+		)
+		(uuid "2f7cea2e-8685-435e-b3fe-bf74eb4c9605")
+	)
+	(text "STM32F405 MCU, USB HS Plug"
+		(exclude_from_sim no)
+		(at 165.862 194.056 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(italic yes)
+			)
+		)
+		(uuid "33090657-7bb7-4155-90c9-d4e18ba2fc64")
+	)
+	(sheet
+		(at 292.1 175.26)
+		(size 80.01 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "21ab623b-3fdd-4de4-95ee-8adb69095c87")
+		(property "Sheetname" "PHASE C"
+			(at 292.1 173.9134 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Phase_c.kicad_sch"
+			(at 292.1 235.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VISENSE_C" input
+			(at 292.1 215.9 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "88db8ac2-52a0-4b51-aff4-dbeb305885c6")
+		)
+		(pin "HIN_C" input
+			(at 292.1 185.42 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "c816a091-b6e0-47f9-a26c-fb4018501541")
+		)
+		(pin "NLIN_C" input
+			(at 292.1 194.31 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "2ed3b060-1850-4650-a825-2caa8c09c74d")
+		)
+		(pin "VSENSE_C" input
+			(at 292.1 208.28 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "ee2deda2-203b-481a-8212-0263762a360a")
+		)
+		(instances
+			(project "ESC_motor_controller"
+				(path "/73b59947-3dcc-4e38-bfed-ceda73ea509d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 292.1 118.11)
+		(size 80.01 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "58a10393-03bf-4140-9d1d-7332051f4bb6")
+		(property "Sheetname" "PHASE B"
+			(at 292.1 116.7634 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Phase_b.kicad_sch"
+			(at 292.1 166.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "HIN_B" input
+			(at 292.1 129.54 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "bf6f4aa7-e61f-4794-9dd5-2a35953c4c7a")
+		)
+		(pin "NLIN_B" input
+			(at 292.1 135.89 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "328fea72-b1c3-4399-b771-d9e7fddc581b")
+		)
+		(pin "VSENSE_B" input
+			(at 292.1 146.05 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "35593a60-cf13-49d0-a9b3-214555e3e75a")
+		)
+		(pin "VISENSE_B" input
+			(at 292.1 156.21 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "907b760a-05b6-4dde-9283-12a2ceddaf00")
+		)
+		(instances
+			(project "ESC_motor_controller"
+				(path "/73b59947-3dcc-4e38-bfed-ceda73ea509d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 76.2)
+		(size 44.45 68.58)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "5cdf1cff-544a-466d-9555-0d871c3effe5")
+		(property "Sheetname" "POWER"
+			(at 31.75 74.8534 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 31.75 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VCC_SENSE" output
+			(at 76.2 88.9 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify right)
+			)
+			(uuid "7f1a0cc9-905c-40a7-9f1f-49052606fecb")
+		)
+		(instances
+			(project "ESC_motor_controller"
+				(path "/73b59947-3dcc-4e38-bfed-ceda73ea509d"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 292.1 54.61)
+		(size 81.28 54.61)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "9188857e-844e-42da-b347-0e5153abaa5e")
+		(property "Sheetname" "PHASE A"
+			(at 292.1 53.2634 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "phase_A.kicad_sch"
+			(at 292.1 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VSENSE_A" input
+			(at 292.1 92.71 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "b246a04f-9f34-4b6d-9336-f2829712c5af")
+		)
+		(pin "VISENSE_A" input
+			(at 292.1 99.06 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "e3738ac3-5a94-418b-bf56-8a727117b53b")
+		)
+		(pin "HIN_A" input
+			(at 292.1 67.31 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "40f35d4e-4c27-4a06-ba79-fc47c2b5eeef")
+		)
+		(pin "NLIN_A" input
+			(at 292.1 72.39 180)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+			(uuid "94c501d3-8f34-4bfb-8d99-c626ea040cfe")
+		)
+		(instances
+			(project "ESC_motor_controller"
+				(path "/73b59947-3dcc-4e38-bfed-ceda73ea509d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 64.77)
+		(size 111.76 135.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "bdea7eff-d965-4b74-80b5-7b620ed7ab6f")
+		(property "Sheetname" "MICRO CONTROLLER"
+			(at 140.97 63.4234 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_sheet.kicad_sch"
+			(at 140.97 201.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VSENSE_C" input
+			(at 252.73 180.34 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "1d5324dd-e8e9-41ab-b222-7ddafc140952")
+		)
+		(pin "VISENSE_B" input
+			(at 252.73 132.08 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "30be6cb2-a8aa-49d8-b39d-d6c4e0a0d0c8")
+		)
+		(pin "NLIN_A" output
+			(at 252.73 81.28 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "b6d4163e-ddcb-452e-ae83-380b10894edd")
+		)
+		(pin "HIN_A" output
+			(at 252.73 76.2 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "69d9e31c-cf60-497e-8c5c-da26ecce9038")
+		)
+		(pin "HIN_C" output
+			(at 252.73 163.83 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "902960c6-cdcf-4f27-9682-a3fc6be31862")
+		)
+		(pin "HIN_B" output
+			(at 252.73 111.76 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "e6fd1180-5782-44d5-98e8-4eaa2e503dbe")
+		)
+		(pin "VISENSE_A" input
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "76a80a0c-373b-44e8-841e-867d206abdf2")
+		)
+		(pin "NLIN_B" output
+			(at 252.73 116.84 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "e915508b-68be-4937-a2b2-c0fe9a171df0")
+		)
+		(pin "NLIN_C" output
+			(at 252.73 170.18 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "e1e478a2-e9e1-469a-aae1-656a4fe46f75")
+		)
+		(pin "VCC_SENSE" input
+			(at 140.97 73.66 180)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify left)
+			)
+			(uuid "c40bb6bd-aef7-4035-9766-7c61149bbb3a")
+		)
+		(pin "VISENSE_C" input
+			(at 252.73 186.69 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "2594a0d6-1086-439b-9a6e-3756585e142b")
+		)
+		(pin "VSENSE_B" input
+			(at 252.73 127 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "1eccfdf6-432c-4b2f-bbaa-51781d95e9e4")
+		)
+		(pin "VSENSE_A" input
+			(at 252.73 88.9 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+			(uuid "194e7375-2cc5-4f8b-8796-cfb1b1c00b53")
+		)
+		(instances
+			(project "ESC_motor_controller"
+				(path "/73b59947-3dcc-4e38-bfed-ceda73ea509d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
